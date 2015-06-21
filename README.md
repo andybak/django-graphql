@@ -6,7 +6,7 @@ a highly experimental, probably buggy and limited proof-of-concept for GraphQL p
 to try it out:
 
 - download code
-- pip install -r requirements.py
+- pip install -r requirements.txt
 - python scratchpad.py
 
 You should see a GraphQL response :)
